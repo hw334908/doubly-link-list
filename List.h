@@ -3,7 +3,7 @@
 #include <iostream>
 #include <cstdlib>
 #include "Dnode.h"
-
+#include "List.template"
 
 using namespace std;
 
